@@ -10,4 +10,4 @@
 
 
 <h4>Tech Stack</h4> 
-C++, Python, JavaScript, React, HTML, CSS, Tailwind, Express, Django, MySQL, SAS VA, Git
+C++, Python, JavaScript, React, HTML, CSS, Tailwind, Express, Redux, Django, MySQL, SAS VA, Git

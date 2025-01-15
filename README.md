@@ -1,4 +1,3 @@
-<img src="">
 <h3>👋Hi there! I'm Nishansha</h3>
 <hr>
 

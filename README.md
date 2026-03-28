@@ -1,21 +1,20 @@
-## 👋 About Me
+👋 About Me
 
-Hi, I’m Nishansha Negi — a Software Engineer with a Master’s degree in Computer Applications and over 1 year of hands-on experience building real-world products.
+Hi, I’m Nishansha Negi — a Software Engineer with a Master’s in Computer Applications and 1.5+ years of experience building scalable, production-grade applications.
 
-I currently work on an AI-based workflow and agent orchestration platform, where I contribute to designing and developing complex frontend systems, integrating APIs, and enabling end-to-end workflow execution. My work involves building state-heavy UIs, dynamic configurations, and scalable frontend architecture for production environments.
+I currently work as a core Full-Stack contributor on an AI-driven workflow and agent orchestration platform, where I lead frontend development and contribute to designing high-performance backend systems. I specialize in building complex, state-driven UIs, interactive workflow builders, and scalable architectures that power real-world AI use cases.
 
-Beyond frontend development, I have experience working across backend services using Node.js and Python (Flask), integrating cloud services, and collaborating closely with product and backend teams to ship features under tight timelines.
+My experience spans across developing asynchronous backend services using FastAPI and Node.js, integrating cloud services like AWS (S3, SQS), and designing systems that handle dynamic workflows and data pipelines efficiently. I enjoy working at the intersection of frontend, backend, and system design to deliver end-to-end solutions.
 
-I enjoy solving complex engineering problems, taking ownership of features, and continuously improving my understanding of system design and backend architecture.
+I’m passionate about solving challenging engineering problems, optimizing performance, and continuously deepening my understanding of scalable system design and backend architecture.
 
-### 🛠 Tech Stack
-- **Frontend:** React.js, React Flow, Tailwind CSS
-- **Backend:** Node.js, Python (Flask)
-- **Databases:** MongoDB, MySQL
-- **Cloud & Infra:** AWS (S3, SQS), Kafka
-- **Other:** REST APIs, OAuth, Git
-
-### 📚 Currently Learning
-- System design fundamentals and scalable architectures  
-- Backend design and data modeling  
-- Data Structures & Algorithms (C++)
+🛠 Tech Stack
+Frontend: React.js, React Flow, Tailwind CSS
+Backend: Node.js, FastAPI, Python (Flask)
+Databases: MongoDB, MySQL, Redis
+Cloud & Infra: AWS (S3, SQS), Docker
+Other: REST APIs, Microservices, OAuth 2.0, Git
+📚 Currently Learning
+Scalable system design & distributed architectures
+Advanced backend engineering & data modeling
+Data Structures & Algorithms (C++)

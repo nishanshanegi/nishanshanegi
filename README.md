@@ -1,4 +1,4 @@
-Hi, I’m Nishansha Negi — a Software Engineer with a Master’s in Computer Applications and 1.5+ years of experience building scalable, production-grade applications.</br></br>
+Hi, I’m Nishansha Negi — a Software Engineer with a Master’s in Computer Applications and 1.6+ years of experience building scalable, production-grade applications.</br></br>
 
 I currently work as a core Full-Stack contributor on an AI-driven workflow and agent orchestration platform, where I lead frontend development and contribute to high-performance backend systems.</br></br>
 

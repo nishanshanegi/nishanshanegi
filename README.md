@@ -1,80 +1,66 @@
-# 👋 Hi, I'm Nishansha Negi  
+<h1 align="center">Hi, I'm Nishansha Negi 👋</h1>
+<h3 align="center">Software Engineer — Distributed Systems & AI-Powered Infrastructure</h3>
 
-🚀 **Software Engineer | Full-Stack Developer | AI Systems**  
-
----
-
-## 👨‍💻 About Me  
-
-Hi, I’m **Nishansha Negi** — a Software Engineer with a Master’s in Computer Applications and **1.6+ years of experience** building scalable, production-grade applications.  
-
-💡 Currently, I work as a **core Full-Stack contributor** on an **AI-driven workflow & agent orchestration platform**, where I:  
-- Lead frontend development ⚛️  
-- Build high-performance backend systems ⚙️  
-- Design scalable, event-driven architectures 🚀  
-
-🧠 I specialize in:  
-- Complex, **state-driven UIs**  
-- Interactive workflow builders  
-- **AI-powered, scalable systems**  
-
-⚡ My work involves:  
-- Asynchronous backend systems (FastAPI, Node.js)  
-- AWS services (S3, SQS)  
-- Workflow orchestration & API integrations  
-
-🎯 I enjoy solving real-world engineering problems, optimizing performance, and growing in **system design & backend architecture**.  
+<p align="center">
+  <a href="mailto:nishanegi16112001@gmail.com">Email</a> •
+  <a href="#">LinkedIn</a> •
+  <a href="#">LeetCode</a> •
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+### About Me
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Flow](https://img.shields.io/badge/React%20Flow-FF6B6B?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+I build backend systems that don't fall over under load — and then wire LLMs into them.
 
----
+At **Estrel AI**, I co-architected a workflow automation engine (think n8n, but built from the ground up) that processes 1,000+ concurrent async workflows using FastAPI, AWS SQS, and a Kahn's-Algorithm-based DAG orchestrator. I care about the unglamorous parts of engineering: deterministic execution, fault tolerance, multi-tenant isolation, and systems that recover gracefully when things go wrong.
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+On the side, I explore where classical backend engineering meets modern AI — RAG pipelines, vector search, and multimodal retrieval.
 
 ---
 
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+### What I Work With
+
+**Languages**
+`C++` `Python` `JavaScript` `SQL`
+
+**Backend & Infra**
+`FastAPI` `Flask` `Node.js` `Express.js` `AWS (EC2, S3, SQS)` `Docker`
+
+**Data**
+`MongoDB` `PostgreSQL` `Redis` `Milvus` `pgvector`
+
+**AI / ML**
+`RAG Pipelines` `Vector Search` `LangGraph` `OpenAI` `Groq` `Sentence-Transformers` `Tesseract OCR`
+
+**Frontend**
+`React.js` `Tailwind CSS`
 
 ---
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+### Currently Building
+
+**[DumpAI](#)** — a multimodal RAG knowledge vault that lets you dump PDFs, images, and text, then query them in natural language. Event-driven ingestion via SQS, hybrid semantic search with pgvector + Sentence-Transformers, and a retrieval pipeline powered by Llama 3 on Groq. Averages ~0.5s semantic recall latency.
+
+`FastAPI` `SQLAlchemy` `pgvector` `Llama 3` `AWS` `Supabase` `React` `Docker`
 
 ---
 
-### 🔧 Other  
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth%202.0-3C3C3C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Experience
+
+**Software Engineer** · Estrel AI · *Nov 2024 – Present*
+Architecting distributed workflow orchestration, HITL state machines, and multi-tenant data infrastructure.
+
+**Software Developer** · Nupeak IT Solutions · *Feb 2024 – Aug 2024*
+Full-stack development across enterprise SAS applications in pharma and public sectors.
 
 ---
 
-## 📚 Currently Learning  
+### Education
 
-📌 Scalable System Design & Distributed Architectures  
-📌 Advanced Backend Engineering & Data Modeling  
-📌 Data Structures & Algorithms (C++)  
+**Poornima University, Jaipur** — MCA (Master of Computer Applications), 2022–2024 · CGPA 8.31/10
 
 ---
 
-## 🌐 Connect With Me  
-
-- 💼 Portfolio: https://nishanshanegi.github.io/my-portfolio/  
-- 🔗 GitHub: https://github.com/nishanshanegi  
-
----
+<p align="center"><sub>Always happy to talk distributed systems, DAGs, or RAG architecture.</sub></p>

@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD3FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nishansha+Negi;Software+Engineer;Backend+Developer" alt="Typing SVG" />
 
 <a href="mailto:nishanegi16112001@gmail.com">Email</a> •
-<a href="#">LinkedIn</a> •
-<a href="#">LeetCode</a> •
-<a href="#">Portfolio</a> •
-<a href="#">GitHub</a>
+<a href="https://www.linkedin.com/in/nishanshanegi/">LinkedIn</a> •
+<a href="https://leetcode.com/u/nishanshanegi/">LeetCode</a> •
+<a href="https://nishanshanegi.github.io/my-portfolio/">Portfolio</a> •
+<a href="https://github.com/nishanshanegi/nishanshanegi">GitHub</a>
 
 </div>
 
@@ -68,14 +68,6 @@ I'm also curious about applying AI to real products, and I've built projects com
 
 ---
 
-### Currently Building
-
-**[DumpAI](#)** — a multimodal RAG knowledge vault that lets you dump PDFs, images, and text, then query them in natural language. Event-driven ingestion via SQS, hybrid semantic search with pgvector + Sentence-Transformers, and a retrieval pipeline powered by Llama 3 on Groq. Averages ~0.5s semantic recall latency.
-
-`FastAPI` `SQLAlchemy` `pgvector` `Llama 3` `AWS` `Supabase` `React` `Docker`
-
----
-
 ### Experience
 
 **Software Engineer** · Estrel AI · *Nov 2024 – Present*
@@ -86,29 +78,5 @@ Full-stack development across enterprise SAS applications in pharma and public s
 
 ---
 
-### Education
 
-**Poornima University, Jaipur** — MCA (Master of Computer Applications), 2022–2024 · CGPA 8.31/10
-
----
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishanshanegi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DD3FF&icon_color=6DD3FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanshanegi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DD3FF&text_color=c9d1d9" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nishanshanegi&theme=dark&hide_border=true&background=0D1117&ring=6DD3FF&fire=6DD3FF&currStreakLabel=6DD3FF" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/nishanshanegi/nishanshanegi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center"><sub>To make the snake animation above actually render, add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to this repo — it regenerates that SVG from your live contribution graph on a schedule.</sub></p>
-
----
-
-<p align="center"><sub>Always happy to talk distributed systems, DAGs, or RAG architecture.</sub></p>
+<p align="center"><sub>Always happy to talk distributed systems, Microservices, or RAG architecture.</sub></p>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD3FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nishansha+Negi;Software+Engineer;Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD3FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nishansha+Negi;Software+Engineer;Backend+Developer;Full+Stack+Developer" alt="Typing SVG" />
 
 <a href="mailto:nishanegi16112001@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/nishanshanegi/">LinkedIn</a> •
@@ -53,6 +53,7 @@ I'm also curious about applying AI to real products, and I've built projects com
 
 **AI / ML**
 <p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
@@ -64,19 +65,8 @@ I'm also curious about applying AI to real products, and I've built projects com
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
-
----
-
-### Experience
-
-**Software Engineer** · Estrel AI · *Nov 2024 – Present*
-Architecting distributed workflow orchestration, HITL state machines, and multi-tenant data infrastructure.
-
-**Software Developer** · Nupeak IT Solutions · *Feb 2024 – Aug 2024*
-Full-stack development across enterprise SAS applications in pharma and public sectors.
-
----
 
 
 <p align="center"><sub>Always happy to talk distributed systems, Microservices, or RAG architecture.</sub></p>
